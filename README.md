@@ -4,7 +4,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/dimitris-avgoustopoulos/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -13,6 +13,11 @@
 <h3 align="left">About me</h3>
 
 ###
+
+<p align="left">I'm a passionate web developer with a multicultural background—half Greek and half Dutch. I graduated from the University of the Aegean in Lesvos, where I studied Computer Science and Technologies.
+<br><br>
+-🖥️ I’m currently working as a web developer.<br>🌱 I'm always curious and eager to learn new things, constantly seeking opportunities to expand my knowledge and skills.<br>
+-🎓 I graduated from the University of the Aegean in Lesvos, where I studied Computer Science and Technologies.</p>
 
 <h3 align="left">Languages and Tools</h3>
 
