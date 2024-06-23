@@ -1,4 +1,4 @@
-# Hi there, I'm [Dimitris] 👋
+# Hi there, I'm Dimitris 👋
 
 ![Profile Banner](link-to-banner-image)
 
