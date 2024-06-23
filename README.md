@@ -2,6 +2,14 @@
 
 ###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/dimitris-avgoustopoulos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 <h3 align="left">About me</h3>
 
 ###
@@ -38,18 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dimitrisAvgoustopoulos&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimitrisAvgoustopoulos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimitrisAvgoustopoulos&radius=16&theme=tokyo-day&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h3 align="left">Let΄s Connect!</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/dimitris-avgoustopoulos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
