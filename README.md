@@ -40,22 +40,12 @@ Check out some of my latest blog posts:
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrisAvgoustopoulos&show_icons=true&theme=radical)
 
 ## Connect with Me
 
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- Personal Website: [yourwebsite.com](https://yourwebsite.com)
 - Email: your.email@example.com
-
-## Support
-
-If you like my work, consider buying me a coffee:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-
----
 
 *Thank you for visiting my profile!*
 
