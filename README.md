@@ -1,43 +1,55 @@
-# Hi there, I'm Dimitris 👋
+<h1 align="left">Hi there, I'm Dimitris 👋🌀</h1>
 
-![Profile Banner](link-to-banner-image)
+###
 
-## About Me
+<h3 align="left">About me</h3>
 
-I'm a passionate developer with experience in [your key skills or technologies]. I love building innovative solutions and contributing to open-source projects. 
+###
 
-- 🔭 I’m currently working on [current project or job].
-- 🌱 I’m currently learning [new skills or technologies].
-- 👯 I’m looking to collaborate on [types of projects you’re interested in].
-- 🤔 I’m looking for help with [areas where you need help].
-- 💬 Ask me about [topics you’re knowledgeable about].
-- 📫 How to reach me: [your email or other contact info].
-- ⚡ Fun fact: [a fun fact about you].
+<h3 align="left">Languages and Tools</h3>
 
-## My Skills
+###
 
-Here are some of the technologies and tools I work with:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
-- **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![Java](https://img.shields.io/badge/Java-8+-red)
-- **Frameworks/Libraries**: ![React](https://img.shields.io/badge/React-16+-brightgreen) ![Node.js](https://img.shields.io/badge/Node.js-14+-green) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.4+-brightgreen)
-- **Tools**: ![Git](https://img.shields.io/badge/Git-2.28+-orange) ![Docker](https://img.shields.io/badge/Docker-19+-blue) ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.18+-blue)
+###
 
-## Projects
+<h3 align="left">Github Stats</h3>
 
-### [Project Name](link-to-project)
-Brief description of the project. What technologies were used? What problem does it solve? 
+###
 
-### [Another Project Name](link-to-project)
-Brief description of the project. What technologies were used? What problem does it solve? 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimitrisAvgoustopoulos&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimitrisAvgoustopoulos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimitrisAvgoustopoulos&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-## GitHub Stats
+###
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrisAvgoustopoulos&show_icons=true&theme=radical)
+<h3 align="left">Let΄s Connect!</h3>
 
-## Connect with Me
+###
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+<div align="left">
+  <a href="https://www.linkedin.com/in/dimitris-avgoustopoulos/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-*Thank you for visiting my profile!*
-
+###
