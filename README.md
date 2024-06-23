@@ -30,14 +30,6 @@ Brief description of the project. What technologies were used? What problem does
 ### [Another Project Name](link-to-project)
 Brief description of the project. What technologies were used? What problem does it solve? 
 
-## Blog Posts
-
-Check out some of my latest blog posts:
-
-- [Title of Blog Post](link-to-blog-post)
-- [Another Blog Post](link-to-blog-post)
-- [Yet Another Blog Post](link-to-blog-post)
-
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrisAvgoustopoulos&show_icons=true&theme=radical)
