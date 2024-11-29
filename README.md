@@ -11,7 +11,7 @@
 <br><br>
 -🖥️ I’m currently working as a web developer.<br>
 -🌱 I'm always curious and eager to learn new things, constantly seeking opportunities to expand my knowledge and skills.<br>
--🎓 I graduated from the University of the Aegean in Lesvos, where I studied Computer Science and Technologies.</p>
+</p>
 
 <h3 align="left">Languages and Tools</h3>
 
