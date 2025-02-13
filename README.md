@@ -13,6 +13,11 @@
 -🌱 I'm always curious and eager to learn new things, constantly seeking opportunities to expand my knowledge and skills.<br>
 </p>
 
+### 🚀 What I Do  
+- Develop and customize **web applications**  
+- Work with **JavaScript frameworks** like React 
+- Build **WordPress websites & plugins**  
+
 <h3 align="left">Languages and Tools</h3>
 
 ###
