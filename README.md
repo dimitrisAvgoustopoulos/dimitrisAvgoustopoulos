@@ -15,7 +15,7 @@
 
 ### 🚀 What I Do  
 - Develop and customize **web applications**  
-- Work with **JavaScript frameworks** like React 
+- Work with **JavaScript frameworks** like **React** 
 - Build **WordPress websites & plugins**  
 
 <h3 align="left">Languages and Tools</h3>
