@@ -1,25 +1,40 @@
-<h1 align="left">Hi there, I'm Dimitris 👋🌀</h1>
+<h1 align="left">Hey there, I'm Dimitris! 👋✨</h1>
 
+---
 
-###
+## 🚀 About Me  
 
-<h3 align="left">About me</h3>
+🌍 **Multicultural web developer** with Greek and Dutch roots, passionate about creating seamless user experiences.  
+🎓 **Computer Science graduate** from the University of the Aegean, Lesvos.  
+💡 Always exploring new technologies and sharpening my skills.  
 
-###
+🔹 Currently working as a **Web Developer**  
+🔹 Passionate about **JavaScript frameworks & UI development**  
+🔹 Enjoy building **custom WordPress solutions & plugins**  
 
-<p align="left">Web developer with a multicultural background—half Greek and half Dutch. I graduated from the University of the Aegean in Lesvos, where I studied Computer Science and Technologies.
-<br><br>
--🖥️ I’m currently working as a web developer.<br>
--🌱 I'm always curious and eager to learn new things, constantly seeking opportunities to expand my knowledge and skills.<br>
+---
+
+## 💻 What I Do  
+
+🔹 Crafting **dynamic & responsive web applications**  
+🔹 Developing with **modern JavaScript frameworks** like **React**  
+🔹 Building and customizing **WordPress websites & plugins**  
+🔹 Ensuring **clean, efficient, and scalable code**  
+
+---
+
+## ⚡ Tech Stack  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,vue,vite,html,css,tailwind,bootstrap,wordpress,python,git,github,vscode" alt="Tech Stack" />
 </p>
 
-### 🚀 What I Do  
-- Develop and customize **web applications**  
-- Work with **JavaScript frameworks** like **React** 
-- Build **WordPress websites & plugins**  
+---
 
+## 📫 Let's Connect!  
 
-### ⚡Tech Stack
+💼 [LinkedIn](https://www.linkedin.com/in/dimitris-avgoustopoulos/)  
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,vue,vite,html,css,tailwind,bootstrap,wordpress,python)](https://skillicons.dev)
+---
 
+✨ _"Building the web, one line of code at a time."_ 🚀  
