@@ -1,4 +1,4 @@
-<h1 align="left">Hey there, I'm Dimitris! 👋✨</h1>
+# Hey there, I'm Dimitris! 👋✨
 
 ---
 
