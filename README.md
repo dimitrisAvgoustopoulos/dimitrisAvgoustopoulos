@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 About Me  
+## 📌 About Me  
 
 🌍 **Multicultural web developer** with Greek and Dutch roots, passionate about creating seamless user experiences.  
 🎓 **Computer Science graduate** from the University of the Aegean, Lesvos.  
