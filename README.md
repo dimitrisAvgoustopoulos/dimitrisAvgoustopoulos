@@ -19,7 +19,7 @@
 - Build **WordPress websites & plugins**  
 
 
-### Tech Stack
+### ⚡Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,vue,vite,html,css,tailwind,bootstrap,wordpress,python)](https://skillicons.dev)
 
