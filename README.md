@@ -33,8 +33,4 @@
 
 ## 📫 Let's Connect!  
 
-💼 [LinkedIn](https://www.linkedin.com/in/dimitris-avgoustopoulos/)  
-
----
-
-✨ _"Building the web, one line of code at a time."_ 🚀  
+💼 [LinkedIn](https://www.linkedin.com/in/dimitris-avgoustopoulos/) 
