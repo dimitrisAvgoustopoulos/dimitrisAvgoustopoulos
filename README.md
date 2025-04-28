@@ -8,9 +8,8 @@
 🎓 **Computer Science graduate** from the University of the Aegean, Lesvos.  
 💡 Always exploring new technologies and sharpening my skills.  
 
-🔹 Currently working as a **Web Developer**  
+🔹 Currently working as a **Frontend Developer**  
 🔹 Passionate about **JavaScript frameworks & UI development**  
-🔹 Enjoy building **custom WordPress solutions & plugins**  
 
 ---
 
@@ -18,7 +17,6 @@
 
 🔹 Crafting **dynamic & responsive web applications**  
 🔹 Developing with **modern JavaScript frameworks** like **React**  
-🔹 Building and customizing **WordPress websites & plugins**  
 🔹 Ensuring **clean, efficient, and scalable code**  
 
 ---
